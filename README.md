@@ -1,2 +1,3 @@
 # bookbot
-Python bookbot used to search and index books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
